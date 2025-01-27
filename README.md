@@ -6,8 +6,6 @@
 
 I'm a Financial Analysis and Risk Management student at the University of Waterloo.
 
----
-
 <div align="center">
 
 
@@ -30,8 +28,8 @@ I'm a Financial Analysis and Risk Management student at the University of Waterl
 - 💬 Ask me about [Your Expertise or Interests]-->
 
 ### 📫 How to Reach Me
-- Email: mzmo@uwaterloo.ca
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/matthew-mo520/)
+- Email: [matthew.mo@uwaterloo.ca](mzmo@uwaterloo.ca)
+- LinkedIn: [matthew-mo520](https://www.linkedin.com/in/matthew-mo520/)
 <!--- Twitter: [Your Twitter Handle]-->
 
 <!--### ⚡ Fun Fact

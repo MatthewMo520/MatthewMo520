@@ -2,7 +2,7 @@
 
 
 
-<div align="center style="background: url('https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-skymountains-aesthetic-gif-preview-desktop-wallpaper.gif'); background-size: cover; padding: 20px;"">
+<div align="center style="background: url('https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif'); background-size: cover; padding: 20px;"">
 
 I'm a currently a Financial Analysis and Risk Management student at the University of Waterloo. 
 

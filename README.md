@@ -13,8 +13,8 @@ I'm a Financial Analysis and Risk Management student at the University of Waterl
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatthewMo520&count_private=true&show_icons=true&theme=rose_pine&icon_color=6a5acd&hide_border=true&line_height=28&custom_title=Contribution%20Statistics&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&card_width=333)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&card_width=333)
 </div>
 
 ---
@@ -28,7 +28,7 @@ I'm a Financial Analysis and Risk Management student at the University of Waterl
 - 💬 Ask me about [Your Expertise or Interests]-->
 
 ### 📫 How to Reach Me
-- Email: [matthew.mo@uwaterloo.ca](mzmo@uwaterloo.ca)
+- Email: mzmo@uwaterloo.ca
 - LinkedIn: [matthew-mo520](https://www.linkedin.com/in/matthew-mo520/)
 <!--- Twitter: [Your Twitter Handle]-->
 

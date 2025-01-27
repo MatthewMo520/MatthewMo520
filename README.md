@@ -21,6 +21,7 @@ I'm a currently a Financial Analysis and Risk Management student at the Universi
 
 ### 🌟 About Me
 🎓 Studying Financial Analysis and Risk Management at the University of Waterloo
+
 🔭 Currently working on a machine learning stock prediction program
 
 (Looking for internships :D)

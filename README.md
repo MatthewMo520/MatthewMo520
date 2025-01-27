@@ -1,7 +1,11 @@
-## Hi there 👋 I'm Matthew Mo a Financial Analysis and Risk Management Student at the University of Waterloo
+<h1>Hi there 👋 I'm Matthew Mo a Financial Analysis and Risk Management Student at the University of Waterloo</h1>
 
+---
+<div>
 ![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs username=MatthewMo520&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&card_width=333)
 ![Github Stats] (https://github-readme-stats.vercel.app/api?username=MatthewMo520&count_private=true&show_icons=true&theme=rose_pine&icon_color=6a5acd&hide_border=true&line_height=28&custom_title=Contribution%20Statistics&count_private=true)
+</div>
+
 
 <!--
 **MatthewMo520/MatthewMo520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

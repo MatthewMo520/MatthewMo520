@@ -20,16 +20,16 @@ I'm a Financial Analysis and Risk Management student at the University of Waterl
 ---
 
 ### 🌟 About Me
-- 🎓 Studying Financial Analysis and Risk Management at the University of Waterloo
-- 🔭 Currently working on a financial analysis project
+🎓 Studying Financial Analysis and Risk Management at the University of Waterloo
+🔭 Currently working on a machine learning stock prediction program
 <!--- 🌱 Learning about [Topics or Technologies]
 - 👯 Looking to collaborate on [Types of Projects]
 - 🤔 Seeking help with [Topics You Need Help With]
 - 💬 Ask me about [Your Expertise or Interests]-->
 
 ### 📫 How to Reach Me
-- Email: mzmo@uwaterloo.ca
-- LinkedIn: [matthew-mo520](https://www.linkedin.com/in/matthew-mo520/)
+Email: mzmo@uwaterloo.ca
+LinkedIn: ![matthew-mo520](https://www.linkedin.com/in/matthew-mo520/)
 <!--- Twitter: [Your Twitter Handle]-->
 
 <!--### ⚡ Fun Fact

@@ -34,7 +34,7 @@ LinkedIn: [matthew-mo520](https://www.linkedin.com/in/matthew-mo520/)
 
 <!--### ⚡ Fun Fact
 - [Your Fun Fact]-->
-![Cool Background](https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif)
+<!--![Cool Background](https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif)-->
 
 
 </div>

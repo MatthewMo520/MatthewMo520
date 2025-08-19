@@ -30,6 +30,7 @@ I'm a currently a Data Science student at the University of Waterloo.
 ### 📫 How to Reach Me
 Email: mzmo@uwaterloo.ca
 LinkedIn: [matthew-mo520](https://www.linkedin.com/in/matthew-mo520/)
+Website: matthew-mo.com
 <!--- Twitter: [Your Twitter Handle]-->
 
 <!--### ⚡ Fun Fact

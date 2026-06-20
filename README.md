@@ -17,7 +17,7 @@ I'm a currently a Data Science student at the University of Waterloo.
 ### 🌟 About Me
 🎓 Studying Data Science at the University of Waterloo
 
-🔭 Currently working on a machine learning stock prediction program
+🔭 Centralized transaction dashboard
 
 (Looking for internships :D)
 

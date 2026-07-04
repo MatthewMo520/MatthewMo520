@@ -21,13 +21,22 @@ Data Science student at the University of Waterloo
 ## 📊 Activity Metrics
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=rose-pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewMo520&layout=compact&langs_count=10&theme=rose_pine&hide_border=true" height="170"/>
 </p>
+
+---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewMo520&theme=rose-pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=rose-pine&hide_border=true" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewMo520&theme=github-dark&hide_border=true" />
+</p>
 ---
 
 ## 🧠 Profile Summary

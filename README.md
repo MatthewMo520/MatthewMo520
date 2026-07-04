@@ -1,55 +1,44 @@
 <h1 align="center">📊 Matthew Mo — Data Science Dashboard</h1>
 
 <p align="center">
-Data Science student at the University of Waterloo
+Data Science student at the University of Waterloo 
 </p>
 
 ---
 
-## 📈 System Overview
+## 📊 System Overview
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&layout=compact&langs_count=10&theme=rose_pine&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 📊 Activity Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="170"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewMo520&layout=compact&langs_count=10&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 ---
 
+## 📡 Activity Metrics
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=rose-pine&hide_border=true" />
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewMo520&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 ## 🧠 Profile Summary
 
 - 🎓 **Education:** University of Waterloo — Data Science  
 - 🔭 **Current Work:** Centralized transaction dashboard  
-- ⚙️ **Interests:** Data systems, analytics engineering, ML pipelines  
+- ⚙️ **Interests:** Data engineering, analytics systems, ML pipelines  
 - 📊 **Goal:** Build scalable data-driven products  
 - 🚀 **Status:** Looking for internships :)
 
 ---
 
-## 🧩 Tech Stack 
+## 🧩 Tech Stack
 
 <p align="center">
 
@@ -64,7 +53,7 @@ Data Science student at the University of Waterloo
 
 ---
 
-## 📡 Contact Layer
+## 📬 Contact
 
 <p align="center">
 

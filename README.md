@@ -40,7 +40,7 @@ Data Science student at the University of Waterloo
 
 ---
 
-## 🧩 Tech Stack (optional but clean)
+## 🧩 Tech Stack 
 
 <p align="center">
 

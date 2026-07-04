@@ -9,10 +9,15 @@ Data Science student at the University of Waterloo
 ## 📊 System Overview
 
 <p align="center">
-  <!-- Stable GitHub stats fork -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatthewMo520&layout=compact&langs_count=10&theme=rose_pine&hide_border=true" height="170"/>
+![Profile Views](https://komarev.com/ghpvc/?username=MatthewMo520&color=blueviolet)
+
+![GitHub](https://img.shields.io/badge/GitHub-MatthewMo520-181717?style=for-the-badge&logo=github)
+
+![Focus](https://img.shields.io/badge/Focus-Data%20Science-blue?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Looking%20for%20Internships-success?style=for-the-badge)
+
 </p>
 
 ---
@@ -31,11 +36,12 @@ Data Science student at the University of Waterloo
 
 ## 🧠 Profile Summary
 
-- 🎓 **Education:** University of Waterloo — Data Science  
+- 🎓 **University:** University of Waterloo  
+- 📊 **Field:** Data Science  
 - 🔭 **Current Work:** Centralized transaction dashboard  
-- ⚙️ **Interests:** Data engineering, analytics systems, ML pipelines  
-- 📊 **Goal:** Build scalable data-driven products  
-- 🚀 **Status:** Looking for internships :)
+- ⚙️ **Interests:** Data engineering, ML systems, analytics pipelines  
+- 🚀 **Goal:** Build scalable data-driven products  
+- 💼 **Status:** Looking for internships :)
 
 ---
 
@@ -58,9 +64,9 @@ Data Science student at the University of Waterloo
 
 <p align="center">
 
-📧 Email: mzmo@uwaterloo.ca  
-🔗 LinkedIn: https://www.linkedin.com/in/matthew-mo520/  
-🌐 Website: https://www.matthew-mo.com/
+📧 mzmo@uwaterloo.ca  
+🔗 linkedin.com/in/matthew-mo520  
+🌐 matthew-mo.com
 
 </p>
 

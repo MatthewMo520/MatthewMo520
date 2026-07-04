@@ -10,7 +10,7 @@ I'm a currently a Data Science student at the University of Waterloo.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&card_width=333)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&theme=rose_pine&hide_border=true&layout=compact&langs_count=10&cache_seconds=0)
 
 ---
 

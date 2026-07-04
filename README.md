@@ -1,38 +1,74 @@
-<h1 align="center">Hi there! I'm Matthew Mo 👋</h1>
+<h1 align="center">📊 Matthew Mo — Data Science Dashboard</h1>
 
 <p align="center">
-🎓 Data Science student at the University of Waterloo<br/>
-🔭 Building a centralized transaction dashboard<br/>
-💡 Looking for internships :)
+Data Science student at the University of Waterloo • Building data systems & analytics tools
 </p>
 
 ---
 
+## 📈 System Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&theme=rose_pine&hide_border=true&layout=compact&langs_count=10" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthewMo520&layout=compact&langs_count=10&theme=rose_pine&hide_border=true" height="170"/>
+
 </p>
 
 ---
 
-### 🌟 About Me
-- 🎓 Studying Data Science at the University of Waterloo  
-- 🔭 Working on a centralized transaction dashboard  
-- 🚀 Currently exploring data engineering + ML systems  
+## 📊 Activity Metrics
 
----
-
-### 📫 Contact
-- Email: mzmo@uwaterloo.ca  
-- LinkedIn: https://www.linkedin.com/in/matthew-mo520/  
-- Website: https://www.matthew-mo.com/
-
----
-
-### ⚡ Fun Add-ons (optional upgrade)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=rose-pine&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=rose-pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewMo520&theme=rose-pine" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatthewMo520&theme=rose-pine" />
+</p>
+
+---
+
+## 🧠 Profile Summary
+
+- 🎓 **Education:** University of Waterloo — Data Science  
+- 🔭 **Current Work:** Centralized transaction dashboard  
+- ⚙️ **Interests:** Data systems, analytics engineering, ML pipelines  
+- 📊 **Goal:** Build scalable data-driven products  
+- 🚀 **Status:** Looking for internships :)
+
+---
+
+## 🧩 Tech Stack (optional but clean)
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
+
+---
+
+## 📡 Contact Layer
+
+<p align="center">
+
+📧 Email: mzmo@uwaterloo.ca  
+🔗 LinkedIn: https://www.linkedin.com/in/matthew-mo520/  
+🌐 Website: https://www.matthew-mo.com/
+
+</p>
+
+---
+
+## ⚡ System Footer
+
+<p align="center">
+<i>“Turning raw data into structured insight.”</i>
 </p>

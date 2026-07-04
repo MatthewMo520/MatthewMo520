@@ -1,7 +1,7 @@
-<h1 align="center">📊 Matthew Mo — Data Science Dashboard</h1>
+<h1 align="center">Matthew Mo — Data Science Dashboard</h1>
 
 <p align="center">
-Data Science student at the University of Waterloo 
+Data Science student at the University of Waterloo
 </p>
 
 ---

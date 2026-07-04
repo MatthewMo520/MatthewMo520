@@ -1,31 +1,65 @@
-<h1 align="center">Matthew Mo — Data Science Dashboard</h1>
+<h1 align="center">> INITIALIZING USER NODE: Matthew Mo</h1>
 
 <p align="center">
-Data Science student at the University of Waterloo
+██████ DATA SCIENCE TERMINAL ██████
 </p>
 
 ---
 
-## 📊 System Overview
+## 🟢 SYSTEM STATUS
 
 <p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MatthewMo520&color=blueviolet)
-
-![GitHub](https://img.shields.io/badge/GitHub-MatthewMo520-181717?style=for-the-badge&logo=github)
-
-![Focus](https://img.shields.io/badge/Focus-Data%20Science-blue?style=for-the-badge)
-
-![Status](https://img.shields.io/badge/Status-Looking%20for%20Internships-success?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/system-online-brightgreen?style=for-the-badge)
+![FOCUS](https://img.shields.io/badge/focus-data%20science-blue?style=for-the-badge)
+![MODE](https://img.shields.io/badge/mode-learning%20%2F%20building-purple?style=for-the-badge)
+![TARGET](https://img.shields.io/badge/goal-internships-red?style=for-the-badge)
 
 </p>
 
 ---
 
-## 📡 Activity Metrics
+## 📡 NODE PROFILE
+
+**USER:** Matthew Mo  
+**NETWORK:** University of Waterloo  
+**NODE TYPE:** Data Science Agent  
+**STATUS:** ACTIVE  
+
+---
+
+## ⚙️ ACTIVE PROCESS LOGS
+
+- BOOT: Loading academic environment → OK  
+- LOAD: Data Science modules → OK  
+- RUN: Centralized transaction dashboard → IN DEVELOPMENT  
+- SCAN: Machine Learning interest → DETECTED  
+- LINK: Analytics systems → STABLE  
+- SEARCH: Internship pipeline → ACTIVE  
+
+---
+
+## 🧠 SYSTEM CONFIGURATION
+
+### LANGUAGES
+- Python  
+- SQL  
+
+### FRAMEWORKS
+- Pandas  
+- NumPy  
+- PyTorch  
+
+### TOOLS
+- Git  
+- Jupyter Notebooks  
+
+---
+
+## 📊 TELEMETRY FEED
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=rose-pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatthewMo520&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -34,46 +68,26 @@ Data Science student at the University of Waterloo
 
 ---
 
-## 🧠 Profile Summary
+## 📁 PROJECT PIPELINE
 
-- 🎓 **University:** University of Waterloo  
-- 📊 **Field:** Data Science  
-- 🔭 **Current Work:** Centralized transaction dashboard  
-- ⚙️ **Interests:** Data engineering, ML systems, analytics pipelines  
-- 🚀 **Goal:** Build scalable data-driven products  
-- 💼 **Status:** Looking for internships :)
+- Centralized Transaction Dashboard → ACTIVE BUILD  
+- Data Cleaning Pipelines → IN PROGRESS  
+- ML Experiments → STANDBY  
 
 ---
 
-## 🧩 Tech Stack
+## 📬 EXTERNAL INTERFACES
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
+- EMAIL: mzmo@uwaterloo.ca  
+- LINKEDIN: linkedin.com/in/matthew-mo520  
+- WEBSITE: matthew-mo.com  
 
 ---
 
-## 📬 Contact
+## ⚡ SYSTEM SHUTDOWN MESSAGE
 
-<p align="center">
+> All systems operational.  
+> Data ingested successfully.  
+> Insights generated and stored.  
 
-📧 mzmo@uwaterloo.ca  
-🔗 linkedin.com/in/matthew-mo520  
-🌐 matthew-mo.com
-
-</p>
-
----
-
-## ⚡ System Shutdown
-
-<p align="center">
-<i>Data ingested. Insights generated. System idle.</i>
-</p>
+**"Turning raw data into structured intelligence."**

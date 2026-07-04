@@ -10,7 +10,7 @@ Data Science student at the University of Waterloo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatthewMo520&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="170"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewMo520&layout=compact&langs_count=10&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
@@ -65,8 +65,8 @@ Data Science student at the University of Waterloo
 
 ---
 
-## ⚡ System Footer
+## ⚡ System Shutdown
 
 <p align="center">
-<i>“Turning raw data into structured insight.”</i>
+<i>Data ingested. Insights generated. System idle.</i>
 </p>
